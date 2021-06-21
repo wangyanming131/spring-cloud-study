@@ -44,3 +44,5 @@
 如果觉得有用，请给个 star,还可以关注我的公众号。
 ## 微信公众号
 ![古时的风筝](https://tva1.sinaimg.cn/large/007S8ZIlly1gfd6gx54haj314z0npafp.jpg)
+
+适合初学者学习
